@@ -1,0 +1,22 @@
+{
+  "name": "scrape_now",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priasdevo/cNovelScraping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priasdevo/cNovelScraping/issues"
+  },
+  "homepage": "https://github.com/priasdevo/cNovelScraping#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
